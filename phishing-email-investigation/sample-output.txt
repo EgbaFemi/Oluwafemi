@@ -1,0 +1,16 @@
+Recreated demonstration | Executed 2026-11-06
+Environment: hosted Linux, Python 3
+Command: python3 run.py
+Exit code: 0
+Synthetic inputs except actual disposable filesystem permissions in the Linux exercise.
+
+Synthetic message: From: Helpdesk <support@accounts.example>
+To: user@example.org
+Subject: Urgent account verification
+Authentication-Results: lab.example; spf=fail; dkim=fail; dmarc=fail
+
+Verify immediately at https://verify.example.net/login
+
+Indicators: ['spf=fail', 'dkim=fail', 'dmarc=fail'] ; sender domain: accounts.example ; URL domain: verify.example.net
+Disposition: suspicious; quarantine and validate through a trusted channel
+PASS: authentication-failure and domain-mismatch indicators identified
