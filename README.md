@@ -70,7 +70,7 @@ and infrastructure monitoring.
 - Wireshark, Nmap, Nessus, Nikto, sqlmap
 - Wazuh, Suricata, Elastic Stack, Splunk
 - Kali Linux, Windows Server, Ubuntu, pfSense
-- Git, GitHub, Markdown documentation
+- Git, GitHub, Markdown documentation.
 
 ---
 
