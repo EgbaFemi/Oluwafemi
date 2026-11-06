@@ -81,9 +81,9 @@ Three selected completed personal lab projects are highlighted below.
 
 | Project | Focus | Status |
 |---------|-------|--------|
-| Linux Permissions Audit | Identifying excessive file permissions and validating remediation | Completed |
-| Phishing Email Investigation | Reviewing email headers, authentication indicators, and suspicious URLs | Completed |
-| Infrastructure Telemetry and Alerting | Validating site readings and evaluating operational alert thresholds | Completed |
+| [Linux Permissions Audit](linux-permissions-audit/README.md) | File permissions and remediation validation | Completed |
+| [Phishing Email Investigation](phishing-email-investigation/README.md) | Email headers and suspicious indicators | Completed |
+| [Infrastructure Telemetry and Alerting](infrastructure-telemetry-alerting/README.md) | Site readings and threshold alerts | Completed |
 
 ### Linux Permissions Audit
 
