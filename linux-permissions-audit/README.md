@@ -9,7 +9,7 @@ Detect excessive access on a disposable file, change permissions from 666 to 640
 Linux, Python 3, os, stat, pathlib, terminal. GitHub and Markdown are used for portfolio documentation.
 
 ## Supporting demonstration
-The accompanying script and output are recreated demonstrations of the project methodology, prepared with AI assistance. The recorded output is from the hosted verification run on 2026-11-06.
+The accompanying script and output are recreated demonstrations of the project methodology. The recorded output is from the hosted verification.
 
 ## Demonstration results
 The demonstration verifies a world-writable test file is detected and corrected. It does not audit the entire host.
